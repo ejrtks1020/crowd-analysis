@@ -1,0 +1,1 @@
+python face_no_embedding_openvino.py --filename new_tracker --path webcam --face_det_size=640 --face_model buffalo_m --draw_age_gender True --disappear_tolerance 40 --save_original False --draw True --save_video False --save_log True --gender_model aihub --blur_face False --min_appear 0 --head_detector True
